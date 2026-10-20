@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AutoNex.API/AutoNex.API.csproj" />
+  <Project Path="AutoNex.Application/AutoNex.Application.csproj" />
+  <Project Path="AutoNex.Domain/AutoNex.Domain.csproj" />
+  <Project Path="AutoNex.Infrastructure/AutoNex.Infrastructure.csproj" />
+</Solution>

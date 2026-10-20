@@ -1,0 +1,6 @@
+@AutoNex.API_HostAddress = http://localhost:5110
+
+GET {{AutoNex.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
